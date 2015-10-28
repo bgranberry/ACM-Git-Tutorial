@@ -1,2 +1,2 @@
 # ACM-Git-Tutorial
-Learning people about version control
+Learnin people about version control
